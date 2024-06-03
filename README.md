@@ -1,1 +1,1 @@
-# Palantir-careers
+# Palantir-career
